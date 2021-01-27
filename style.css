@@ -18,19 +18,21 @@ body {
 }
 #clear {
   border: none;
+  background-color: #fb8b24;
 }
 
 button {
   display: inline-block;
   width: 5rem;
   height: 5rem;
-  border: 0.5px solid;
-  font-size: 30px;
+  /* border: 0.5px solid; */
+  font-size: 40px;
   background-color: #028090;
 }
 
 .nums {
   background-color: #00a896;
+  font-size: 35px;
 }
 
 button:hover {
@@ -44,9 +46,7 @@ button:hover {
 
   width: fit-content;
   height: auto;
-  border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10%;
-  background-color: black;
 }
