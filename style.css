@@ -14,7 +14,7 @@ body {
   text-align: right;
   font-size: 30px;
   padding-right: 5%;
-  border: 2px solid rgb(74, 187, 74);
+  border: 2px solid; 
 }
 #clear {
   border: none;
@@ -26,7 +26,17 @@ button {
   height: 5rem;
   border: 0.5px solid;
   font-size: 30px;
-  background-color: rgb(74, 187, 74);
+  background-color: #028090;
+}
+
+.nums {
+  background-color: #00a896;
+}
+
+button:hover {
+  opacity: 0.2;
+  font-weight: bold;
+  border: white;
 }
 
 .main-calc {
@@ -38,5 +48,5 @@ button {
   margin-left: auto;
   margin-right: auto;
   margin-top: 10%;
-  background-color: rgb(74, 187, 74);
+  background-color: black);
 }
