@@ -14,7 +14,7 @@ body {
   text-align: right;
   font-size: 30px;
   padding-right: 5%;
-  border: 2px solid; 
+  border: 2px solid;
 }
 #clear {
   border: none;
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-  opacity: 0.2;
+  opacity: 0.85;
   font-weight: bold;
   border: white;
 }
@@ -48,5 +48,5 @@ button:hover {
   margin-left: auto;
   margin-right: auto;
   margin-top: 10%;
-  background-color: black);
+  background-color: black;
 }
