@@ -9,9 +9,11 @@ body {
 
 .text-box {
   height: 5rem;
-  width: 15rem;
+  width: 15.3rem;
   text-align: right;
-  font-size: 20px;
+  font-size: 30px;
+  padding-right: 5%;
+  border: 2px solid rgb(74, 187, 74);
 }
 #clear {
   border: none;
