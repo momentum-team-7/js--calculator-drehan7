@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", monospace;
+}
+body {
+  background-color: grey;
+}
+
+.text-box {
+  height: 5rem;
+  width: 15.3rem;
+  text-align: right;
+  font-size: 30px;
+  padding-right: 5%;
+  border: 2px solid;
+}
+#clear {
+  border: none;
+  background-color: #fb8b24;
+}
+
+button {
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  /* border: 0.5px solid; */
+  font-size: 40px;
+  background-color: #028090;
+}
+
+.nums {
+  background-color: #00a896;
+  font-size: 35px;
+}
+
+button:hover {
+  opacity: 0.85;
+  font-weight: bold;
+  border: white;
+}
+
+.main-calc {
+  display: block;
+
+  width: fit-content;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
