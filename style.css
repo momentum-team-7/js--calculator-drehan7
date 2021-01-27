@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.text-box {
+  height: 5rem;
+  width: 15rem;
+  text-align: right;
+  font-size: 20px;
+}
+
+button {
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  border: none;
+  font-size: 30px;
+  background-color: rgb(74, 187, 74);
+}
+
+.main-calc {
+  display: block;
+
+  width: fit-content;
+  height: auto;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
